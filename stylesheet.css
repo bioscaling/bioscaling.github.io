@@ -2,7 +2,9 @@
   background-color: #ceccf3;
   height:90px;
 }
-
+li{
+  list-style:none;
+}
 h1 {
   font-size: 20px;
   font-family: Avenir Next;
